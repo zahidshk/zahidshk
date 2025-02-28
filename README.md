@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zahidshk
-- 👀 I’m interested in Front-end web-development.
+- 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on projects to enhance my skills and contribute to open source.
 
