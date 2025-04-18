@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @zahidshk
-- 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on projects to enhance my skills and contribute to open source.
+# 👋 Hi, I'm [Zahid Sheikh]
 
-<!---
-zahidshk/zahidshk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-taught frontend developer focused on learning by building. I'm currently learning React while strengthening my skills in HTML, CSS, and JavaScript.
+
+I’m committed to continuous improvement through hands-on coding.
+
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React (currently learning)
+- Git & GitHub
+
+---
+
+Always learning. Always building.
