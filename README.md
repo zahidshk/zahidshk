@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Sheikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 About Me:
 🌱 I’m currently learning React<br><br>📫 How to reach me zahidsk850@gmail.com
 
 
