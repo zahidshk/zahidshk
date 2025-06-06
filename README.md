@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Zahid</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidshk&label=Profile%20views&color=0e75b6&style=flat" alt="zahidshk" /> </p>
+# Hi there, I'm Zahid! 👋
 
-- 🌱 I’m currently learning **ReactJS**
+I'm a **Front-End Developer** passionate about coding and learning new technologies.
 
-- 📫 How to reach me - **zahidsk850@gmail.com**
+## 🚀 Tech Stack
+- **Languages & Markup:** HTML, CSS, JavaScript
+- **Frameworks:** React
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zahiiid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahiiid7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zahid-sheikh-775567288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid-sheikh-775567288" height="30" width="40" /></a>
-</p>
+## 🌟 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **[Forkify](https://forkify-app-zahid.netlify.app/)**  
+  A project for searching and managing recipes.
+  
+- **[Omnifood](https://omnifood-zahid.netlify.app/)**  
+  A landing page for a smart food delivery service.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidshk&show_icons=true&locale=en&layout=compact" alt="zahidshk" /></p>
+## 📫 Connect with me
+
+[LinkedIn](zahid-sheikh-775567288) | [Twitter](https://x.com/zahiiid7) | [Gmail](zahidsk850@gmail.com)
+
+---
+
+_Thanks for visiting my profile!_
+Let's connect and build something amazing together.
