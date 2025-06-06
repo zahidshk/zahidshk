@@ -18,7 +18,7 @@ How to reach me - zahidsk850@gmail.com
 
 ## 📫 Connect with me
 
-[LinkedIn]([zahid-sheikh-775567288](https://www.linkedin.com/in/zahid-sheikh-775567288/)) | [Twitter](https://x.com/zahiiid7) |
+[LinkedIn](https://www.linkedin.com/in/zahid-sheikh-775567288/) | [Twitter](https://x.com/zahiiid7) |
 
 ---
 
