@@ -2,6 +2,8 @@
 
 I'm a **Front-End Developer** passionate about coding and learning new technologies.
 
+How to reach me - zahidsk850@gmail.com
+
 ## 🚀 Tech Stack
 - **Languages & Markup:** HTML, CSS, JavaScript
 - **Frameworks:** React
@@ -16,7 +18,7 @@ I'm a **Front-End Developer** passionate about coding and learning new technolog
 
 ## 📫 Connect with me
 
-[LinkedIn](zahid-sheikh-775567288) | [Twitter](https://x.com/zahiiid7) | [Gmail](zahidsk850@gmail.com)
+[LinkedIn](zahid-sheikh-775567288) | [Twitter](https://x.com/zahiiid7) |
 
 ---
 
